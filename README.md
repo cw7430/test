@@ -1,1 +1,1 @@
-gitgub 테스트
+github 테스트
